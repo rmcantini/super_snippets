@@ -1,10 +1,13 @@
 import tkinter as tk
 
+
 def start_script():
-  print("Starting script...")
+    print("Starting script...")
+
 
 def stop_script():
-  print("Stopping script...")
+    print("Stopping script...")
+
 
 root = tk.Tk()
 root.geometry("200x88+960+400")
