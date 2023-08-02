@@ -1,2 +1,3 @@
 # super_snippets
-Python script that expands texts abreviations to longer/different text strings.
+
+Python script that expands texts abbreviations to longer/different text strings.
