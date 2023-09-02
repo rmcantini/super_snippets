@@ -1,5 +1,5 @@
-import keyboard
 import re
+import keyboard
 
 
 def text_expander(text):
