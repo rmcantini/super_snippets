@@ -1,6 +1,6 @@
+import re
 import pyperclip
 import keyboard
-import re
 
 
 def expand_text_as_you_type():
@@ -14,7 +14,7 @@ expansions = {
     "rofl": "rolling on the floor laughing",
     "wtf": "what the f*ck",
     "lo": "¯\_(ツ)_/¯",
-    "eu": add_keystroke,
+    # "eu": add_keystroke,
 }
 
 
