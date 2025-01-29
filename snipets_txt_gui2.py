@@ -1,11 +1,13 @@
 import tkinter as tk
 
 
-def start_script():
+def start_script(): 
+    # 
     print("Starting script...")
 
 
 def stop_script():
+    
     print("Stopping script...")
 
 
